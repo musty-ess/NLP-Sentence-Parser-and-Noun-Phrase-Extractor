@@ -7,6 +7,7 @@ This project involves building an AI tool that parses sentences and extracts nou
 ### Example Output
 
 When provided with the sentence "Holmes sat", the parser generates the following structure:
+```bash
       S
  _____|___
 NP        VP 
@@ -14,7 +15,7 @@ NP        VP
 N         V
 |         | 
 holmes   sat
-
+```
 
 ## Background
 
