@@ -36,7 +36,7 @@ In this project, we utilize context-free grammar (CFG) to represent the structur
 
 - **Python 3.12**
 - **NLTK library**: Used for tokenization and tree structure manipulation.
-- **Clone the repo**: `git clone`  
+- **Clone the repo**: `git clone https://github.com/musty-ess/NLP-Sentence-Parser-and-Noun-Phrase-Extractor.git`  
 - **Install dependencies using**: `pip install -r requirements.txt`
 - **Run the program**: `python parser.py`. When prompted, input a sentence or provide a file path to a sentence file for the parser to process.  
 
